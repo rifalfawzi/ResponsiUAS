@@ -1,0 +1,5 @@
+C:\Users\ASUS-KL\Desktop\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+C:\Users\ASUS-KL\Desktop\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+C:\Users\ASUS-KL\Desktop\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-KL\Desktop\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+C:\Users\ASUS-KL\Desktop\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
